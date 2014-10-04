@@ -16,6 +16,11 @@ locate [searchterm]
 
 The search is case-insensitive. That's it. You might want to make sure that the program is on your path so you can use it from everywhere.
 
+Download
+========
+
+A precompiled version can be downloaded at http://www.joachimrohde.com/downloads/Locate.exe
+
 
 License
 =======
